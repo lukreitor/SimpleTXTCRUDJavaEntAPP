@@ -30,15 +30,17 @@ The application allows the user to view and modify the data even after closing a
 ![Manager Management Window](manager.png)
 
 ### System Folders
-![System Folders](Sistemas_Pastas.jpg)
+![System Folders](Sistemas_Pastas.jepg)
 
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the project in your Java IDE.
-3. Build and run the application.
-4. Use the main window to navigate to the data management windows.
-5. Perform CRUD operations as needed.
+2. Create a new  project in your Java IDE.
+3. Add the content of the src folder to your src folder in the new project
+4. Build and run the application.
+5. Use the main window to navigate to the data management windows.
+6. Perform CRUD operations as needed.
+7. Modify as you want
 
 ## Contributing
 
