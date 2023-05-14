@@ -50,7 +50,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Special thanks to [Name], [Name], and [Name] for their contributions to this project.
+Special thanks to UTFPR, Prof Fabrício Martins for all the learning.
 
-Note: Please make sure to place the images `client.png`, `manager.png`, `trainer.png`, `main.png`, and `Sistemas_Pastas.jpg` in the same directory as the README file, and update the image paths in the README accordingly.
 
