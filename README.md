@@ -30,7 +30,7 @@ The application allows the user to view and modify the data even after closing a
 ![Manager Management Window](manager.png)
 
 ### System Folders
-![System Folders](Sistema_Pastas.JPEG)
+![System Folders](Sistema_Pastas.jpeg)
 
 ## Usage
 
